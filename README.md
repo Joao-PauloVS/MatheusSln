@@ -1,4 +1,4 @@
-### Olá! Eu sou o Matheus Tavares, atualmente sou desenvolvedor c#(.net) e Angular
+### Olá! Eu sou o Matheus Tavares, atualmente sou desenvolvedor nas linguagens c#(.net) e Angular
 
 <div align="center">
   <a href="https://github.com/MatheusSln">
